@@ -3,4 +3,4 @@ Week 4 course project includes a shiny app to determine diamond price based on f
  https://lisabags.shinyapps.io/my_app/
 
 Also included is a pitch presentation for the app
- http://rpubs.com/LisaBags/356805
+ http://rpubs.com/LisaBags/356809
